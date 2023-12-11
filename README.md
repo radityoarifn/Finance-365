@@ -3,7 +3,7 @@
 **Note: Unauthorized copying or distribution of this project without permission is strictly prohibited.**
 
 ## Description
-Finance-365 is a software application designed to assist individuals, companies, or organizations in managing various aspects of their finances. It provides a comprehensive set of features to streamline financial processes, including budgeting, expense tracking, income management, investment tracking, and more.
+Finance 365 is a software application designed to assist individuals, companies, or organizations in managing various aspects of their finances. It provides a comprehensive set of features to streamline financial processes, including budgeting, expense tracking, income management, investment tracking, and more.
 
 ## Features
 - Budgeting and financial goal setting
@@ -43,4 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any inquiries or support, please contact us at raditssk@gmail.com
 
-Thank you for your interest in Finance-365!
+Thank you for your interest in Finance 365!
