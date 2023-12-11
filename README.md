@@ -1,4 +1,4 @@
-# Finance-365
+# Finance 365
 
 **Note: Unauthorized copying or distribution of this project without permission is strictly prohibited.**
 
